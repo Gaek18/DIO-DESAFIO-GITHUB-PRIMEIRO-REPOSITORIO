@@ -1,0 +1,4 @@
+
+- o Gitbash é um terminal extendido para otimizar o uso do GIT
+- link para download do GIT: https://git-scm.com/download/win
+
